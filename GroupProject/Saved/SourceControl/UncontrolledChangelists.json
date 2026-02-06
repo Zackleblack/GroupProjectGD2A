@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Blueprint/BP_CubePlatform.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/CD/UO7SBZA6213COHL85WEG2X.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/U1/UFYOHYAVRITYUSW0VCVA80.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/76/LJ3XDGE64H66TESE7Y6TAV.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ZH/J8EDMG1NVI9H2YN4JKVKLJ.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Audio/Beep_Block.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/ThirdPerson/_GENERATED/Zacke/Box_51E3664E.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_NormalDX.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_Displacement.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_Color.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_AmbientOcclusion.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_NormalGL.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/Carpet005_2K-JPG_Roughness.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/MF_PSR.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MasterMaterial/M_MasterMaterial.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/M_MasterMaterial.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/MF_PSR.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_Roughness.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_NormalGL.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_AmbientOcclusion.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_Color.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_Displacement.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Materials/MasterMaterial/Carpet005_2K-JPG_NormalDX.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/MI_RedDiamond.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/Diamonds/MI_RedDiamond.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/Diamonds/MI_BlueDiamond.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/OX/M7EHRLQY8OOMZ2RHGLCQXL.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/5R/47TC84T9RSYUSC1DV1ZWV8.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/L6/3WCN6WAT80E1F4K68ZH1MB.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NW/SMMRGG9TTUK0OWAXMLP17P.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/XH/WGRBE1POJC7E9IQ1TX93L9.uasset",
+				"C:/Users/Zacke/Documents/Github/GroupProjectGD2A/GroupProject/Content/Developer/ZackStuff/Material/Diamonds/Diamond_Texture.uasset"
+			]
+		}
+	]
+}
